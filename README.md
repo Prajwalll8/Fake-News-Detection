@@ -89,7 +89,7 @@ Once you are satisfied with the performance of a particular classifier, you can 
 ## Project Screenshots
 
 #### Not a Fake News
-![Not a Fake News](https://github.com/Prajwalll8/Fake-News-Detection/blob/main/images/Not%20a%20Fake%20News.jpeg?raw=true)
+![Not a Fake News](https://github.com/Prajwalll8/Fake-news-Detection/blob/main/images/Not%20a%20Fake%20News.jpeg)
 
 #### Fake News
 ![Fake News](https://github.com/Prajwalll8/Fake-news-Detection/assets/118688453/2f5262f7-801d-4293-824c-13c29fb97fed)
